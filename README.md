@@ -4,8 +4,7 @@
   <br>
   던지미 (Fortunetoss)
 </h1>
-
-<hr/>
+<br>
 
 ## 📆 프로젝트 개요
 
@@ -14,7 +13,7 @@
 - **주제:** 새해 덕담과 지난 한 해 동안의 자신에 대한 퀴즈를 담은 복주머니를 만들어 친구와 나누는 설날 이벤트성 웹 서비스
 - **배포:** ~~[Fortunetoss 홈페이지](https://fortunetoss.vercel.app)~~ (현재 배포 중단)
 
----
+<br>
 
 ## 🎯 주요 기능
 
@@ -30,7 +29,7 @@
 - 공유받은 복주머니의 퀴즈 풀기 및 덕담 확인
 - 자신의 결과를 카카오톡 또는 링크 복사로 공유
 
----
+<br>
 
 ## 📸 주요 화면
 
@@ -68,7 +67,7 @@
   <span style="font-size:14px;">결과 공유 및 신규 퀴즈 생성</span>
 </p>
 
----
+<br>
 
 ## 🛠️ 기술 스택
 
@@ -99,7 +98,7 @@
 - AWS EC2 / RDS / S3
 - Vercel
 
----
+<br>
 
 ## 🧩 ERD
 
@@ -107,7 +106,7 @@
   <img src="https://github.com/user-attachments/assets/44ce5cb0-552b-4c5c-b253-51c571f37d6e" width="">
 </p>
 
----
+<br>
 
 ## 👥 팀 구성
 
